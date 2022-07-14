@@ -1,16 +1,16 @@
-# budget_ui_app
+# Simple budget app
 
-A new Flutter project.
+#### This project is code along project with instructor (null safety)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Homescreen
+![Simulator Screen Shot - iPhone 11 - 2022-07-14 at 15 47 45](https://user-images.githubusercontent.com/91663623/178942944-88c61c89-09d7-4d2b-95a9-6644e8a8c266.png)
+![Simulator Screen Shot - iPhone 11 - 2022-07-14 at 15 47 50](https://user-images.githubusercontent.com/91663623/178942960-9df7c352-c3b2-4283-9f5b-fd51793d792e.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Each category expense
+![Simulator Screen Shot - iPhone 11 - 2022-07-14 at 15 47 58](https://user-images.githubusercontent.com/91663623/178942968-6d7346e8-86d5-4b98-9318-d858b729d4ab.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+### Credit to LanuchClub : https://www.launchclub.io/
